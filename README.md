@@ -2,4 +2,8 @@
 
 시계열팀 "훈훈한 지은 호~!" 팀의 Airport Configuration Repositary 
 
-테스트 : 22.03.11
+ https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/
+ 
+ # 프로젝트 개요 
+ 
+
