@@ -1,6 +1,5 @@
 # Airport_Configuration
-
-시계열팀 "훈훈한 지은 호~!" 팀의 Airport Configuration Repositary 
+- 현재 진행 중 
 
  https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/
  
