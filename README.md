@@ -21,7 +21,7 @@
 
 ### 2.1 Configuration
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb16d530-6930-4e4b-951a-09df49fc9e22/Untitled.png)
+![image](https://user-images.githubusercontent.com/92499881/160062124-85b0ae22-07fc-453c-bee3-b46cde13b82f.png)
 
 - Runway는 크게 Departure 와 Arrival 두종류로 나뉘어 사용 되며 시간, 기상, 항공량에 따라 조합이 구성 됨
 - 위 Table의 airport_config 컬럼이 해당 시간대에 활성화 된 runway의 조합을 뜻하며 D_로 시작하는 것들은 이륙에 사용 된 활주로, A로 시작하는 것들은 착륙에 사용 된 활주로를 뜻 함
@@ -38,7 +38,7 @@
 
 ### 2.2 기상 데이터
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/999c55b5-55a6-45d2-bdb9-f4ab8d3049dc/Untitled.png)
+![image](https://user-images.githubusercontent.com/92499881/160062177-982ff9b4-ef22-4747-9eb1-523861b6300b.png)
 
 - 기상 데이터에는 기록 시간, 예측 시간 그리고 온도, 풍향,풍속,등의 데이터가 존재 함
 
@@ -54,10 +54,9 @@
 
 ## 3. 모델 설명
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7eddc14-5c3e-4e67-a44c-e5b98a5b555b/Untitled.png)
+![image](https://user-images.githubusercontent.com/92499881/160062203-f6f493f8-aa22-444e-8940-4a22664f76c0.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d531d94f-c4ae-4b81-befe-fb31ab47f288/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/92499881/160062234-4c25811d-f120-460c-a769-4295562b48d4.png)
 - 기본적인 모델 컨셉은 기준 시간으로 부터 과거 12시간의 데이터를 참조 하여 미래 6시간의 데이터를 예측함
 - 과거 12시간 데이터 - 미래 6시간 데이터 그리고 lamp데이터를 모두 연결해주는 key 로 timestamp를 사용 함
 
@@ -94,8 +93,7 @@
 
 ## 4. 결과
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c1c6aae-ca73-45cc-a61e-fb962191be75/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/92499881/160062259-5e044c1b-e893-4e05-9fd9-7da97dc1a940.png)
 <aside>
 💡 Current Rank : 2등
 
