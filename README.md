@@ -6,7 +6,7 @@
     - 미국의 데이터 Competition Plotform ‘DRIVENDATA’에서 진행 된 Competition
     - Funded by NASA
     
-    [Run-way Functions: Predict Reconfigurations at US Airports (Open Arena)](https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/)
+    - 사이트 주소 : [Run-way Functions: Predict Reconfigurations at US Airports (Open Arena)](https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/)
     
 - **프로젝트 목적**
     - US 10개 항공 로 미래에 어떤 활주로가 활성화 될지 예측한다
